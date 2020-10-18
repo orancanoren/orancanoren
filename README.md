@@ -17,5 +17,3 @@ In the past I've learned and worked on:
 I'm currently improving my penetration testing skills through solving challenges and owning vulnerable machines. You can check out my favorite project [Cryptoran](https://github.com/orancanoren/cryptoran).
 
 <a href="https://github.com/orancanoren/cryptoran"><img height=35 src="https://raw.githubusercontent.com/orancanoren/cryptoran/master/Cryptoran%20Logo.png"/></a>
-
-![Oran's github stats](https://github-readme-stats.vercel.app/api?username=orancanoren&show_icons=true&line_height=30)
