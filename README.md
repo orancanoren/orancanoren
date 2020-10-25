@@ -10,7 +10,7 @@ At SAP I'm working on building security pipelines for our development cycle and 
 In the past I've learned and worked on:
 - High performance computing [Nvidia CUDA / OpenMP] 
 
-<a href="https://developer.nvidia.com/cuda-toolkit"><img height=20 src="https://www.nvidia.com/etc/designs/nvidiaGDC/clientlibs_base/images/NVIDIA-Logo.svg"/></a> <a href="https://www.openmp.org"><img height=20 src="https://www.openmp.org/wp-content/uploads/openmp-enabling-hpc-since-1997.png"/></a>
+<a href="https://developer.nvidia.com/cuda-toolkit"><img height=30 src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg"/></a> <a href="https://www.openmp.org"><img height=30 src="https://www.openmp.org/wp-content/uploads/openmp-enabling-hpc-since-1997.png"/></a>
 - Machine Learning
 - Cryptography
 
