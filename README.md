@@ -5,7 +5,7 @@ I'm Oran, a software developer working at [@SAP](https://github.com/SAP) focusin
 <a href="https://www.sap.com"><img height=30 src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg"/></a>
 <a href="https://kubernetes.io/"><img height=30 src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg"/></a>
 
-At SAP I'm working on building security pipelines for our development cycle and deployment configurations for our micro services.
+At SAP I'm maintaining & extending security relevant microservices, and mitigating security threats on our cloud resources.
 
 In the past I've learned and worked on:
 - High performance computing [Nvidia CUDA / OpenMP] 
